@@ -10,9 +10,11 @@ Deployed Application: https://bremnerdc.github.io/weather_planner/
 ## Technologies used
 * OpenWeather API, jQuery, Bootstrap CSS Framework, Google Fonts API
 
-### How to use
+### How to use:
+![weather_dashboard_gif](https://user-images.githubusercontent.com/61300825/79929664-3d7f3c00-83fb-11ea-8a40-da0d45e0c0de.gif)
 
-### Screenshots 
+### Screenshots:
+<img width="1792" alt="Screen Shot 2020-04-21 at 5 47 03 PM" src="https://user-images.githubusercontent.com/61300825/79929415-766ae100-83fa-11ea-8ac7-11ccc9cc6671.png">
 
 
 
