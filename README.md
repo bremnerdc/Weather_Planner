@@ -13,6 +13,7 @@ Deployed Application: https://bremnerdc.github.io/weather_planner/
 ### How to use
 
 ### Screenshots 
+<img width="1792" alt="Screen Shot 2020-04-21 at 5 47 03 PM" src="https://user-images.githubusercontent.com/61300825/79929415-766ae100-83fa-11ea-8ac7-11ccc9cc6671.png">
 
 
 
