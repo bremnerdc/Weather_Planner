@@ -13,7 +13,7 @@ $(document).ready(function() {
 
   //append the list of cities
   function cityHistory(text) {
-    var app = $("<li>").addClass("list-group list-group-flush").text(text);
+    var app = $("<li>").addClass("list-group-item").text(text);
     $(".cityList").prepend(app);
   }
 
